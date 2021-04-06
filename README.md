@@ -1,7 +1,7 @@
 ### Profilime hoş geldin ben Veucci 👋
 
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
+[![Website](https://img.shields.io/badge/Site-patatessevenler.com-blue)](https://patatessevenler.com)
+[![İnstagram](https://img.shields.io/badge/%C4%B0nsta-%40veucci.tr-red)](https://instagram.com/veucci.tr)
 
 ## Can sıkıntımı Github'da veya Visual Studio Code'da geçiriyorum.
 
