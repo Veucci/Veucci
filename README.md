@@ -1,6 +1,6 @@
 ### Profilime hoş geldin ben Veucci 👋
 
-[![İnstagram](https://img.shields.io/badge/%C4%B0nsta-%40veucci.tr-red)](https://instagram.com/lytcial)
+[![İnstagram](https://img.shields.io/badge/%C4%B0nsta-%40lytcial-red)](https://instagram.com/lytcial)
 
 ## Can sıkıntımı Github'da veya Visual Studio Code'da geçiriyorum.
 
