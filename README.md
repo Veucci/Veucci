@@ -1,11 +1,10 @@
 ### Profilime hoş geldin ben Veucci 👋
 
-[![Website](https://img.shields.io/badge/Site-patatessevenler.com-blue)](https://patatessevenler.com)
 [![İnstagram](https://img.shields.io/badge/%C4%B0nsta-%40veucci.tr-red)](https://instagram.com/veucci.tr)
 
 ## Can sıkıntımı Github'da veya Visual Studio Code'da geçiriyorum.
 
-- 🌍 İlk Websitemi kurdum. [website]
+- 🌍 İlk Websitemi kurdum.
 - 🌱 Şu an başka projeler üstüne devam ediyorum.
 - ✨ Discord Sunucum var isterseniz websitem üzerinden gelebilirsiniz.
 - 🎷 Rota dinlemeyi severim.
@@ -22,6 +21,5 @@
 ---
 
 
-[website]: https://patatessevenler.com
 [twitter]: https://twitter.com/VeucciT
-[instagram]: https://instagram.com/veucci.tr
+[instagram]: https://instagram.com/lytcial
