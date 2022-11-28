@@ -1,4 +1,4 @@
-### Profilime hoş geldin ben Veucci 👋
+### Profilime hoş geldin ben Efe 👋
 
 [![İnstagram](https://img.shields.io/badge/%C4%B0nsta-%40lytcial-red)](https://instagram.com/lytcial)
 
@@ -6,7 +6,6 @@
 
 - 🌍 İlk Websitemi kurdum.
 - 🌱 Şu an başka projeler üstüne devam ediyorum.
-- ✨ Discord Sunucum var isterseniz websitem üzerinden gelebilirsiniz.
 - 🎷 Rota dinlemeyi severim.
 - ⚡ Aşağıda sosyal medya hesaplarım var.
 
