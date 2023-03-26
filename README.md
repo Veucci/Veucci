@@ -5,6 +5,4 @@
 - 🌍 İlk Websitemi kurdum - 2020.
 - 🌱 Repolarım gizlide projeler için biodaki linki kullanabilrsiniz.
 
-## MY PORTFOLİO
-
-- https://efe-ozkan.vercel.app
+## [PORTFOLİO](https://efeozkan.vercel.app)
