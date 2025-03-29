@@ -1,28 +1,34 @@
-# 🦆 Hi there, I'm Efe 
+# 🦆
 
-I'm a software developer with a passion for Python, Flask, Machine Learning, and Data Analysis. I enjoy building applications that solve real-world problems and can help make people's lives easier.
+Hello, I'm **Efe Hüseyin Özkan**, an **AI-focused software developer** specializing in **machine learning, deep learning, and web development**. I work with **Python, PyTorch, and Docker** to build AI-driven applications. My expertise lies in **natural language processing (NLP), computer vision, and AI-powered mobile applications**.  
 
-## 👻 Skills
-- Python 
-- Flask
-- Machine Learning (Supervised Learning, Unsupervised Learning, Deep Learning)
-- Data Analysis (Data Cleaning, Data Visualization, Statistical Analysis)
-- HTML, CSS
+## 📌 Skills  
 
-## 🐼 How to Reach Me
-- [My Portfolio](https://efeozkan.vercel.app)
-- [LinkedIn](https://www.linkedin.com/in/efe-%C3%B6zkan-965979257)
+- **Python, PyTorch, TensorFlow, Node.js, React-Native, Next.js**  
+- **Machine Learning, Deep Learning, NLP, Computer Vision**  
+- **SQL, MongoDB**  
+- **Git, Docker, Linux, Vercel**  
 
-## 🍕 Interests
-- Artificial Intelligence
-- Data Science
-- Web Development
-- Cartoons
+## 🚀 Featured Projects  
 
-## 🤙 Stats
-![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=Veucci&show_icons=true&theme=radical)
+### 🎨 **Lyravue AI** *(React Native, Python, PyTorch, Docker)*  
+- AI-powered app that generates artistic visuals from music.  
+- Utilizes deep learning models to analyze music and create unique artwork.  
+- [Download on Google Play Store](https://play.google.com/store/apps/details?id=com.veucci.lyravue)  
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Veucci&layout=compact&theme=radical)
+### 🎵 **Turkish Lyrics Genre Classification** *(Python, PyTorch, BERT)*  
+- AI model predicting music genres from Turkish lyrics.  
+- Uses **BERT-based NLP models** for accurate genre classification.  
+- **[GitHub Repository](https://github.com/Veucci/turkish-lyric-to-genre)**  
 
-## 🪐 Collaboration
-I'm always interested in collaborating on new projects and learning from others. If you have an interesting project or just want to say hi, feel free to reach out!
+### 📺 **Turkish Retr0 TV** *(Python, MongoDB)*  
+- A web app providing a nostalgic TV experience.  
+- Developed with **AI-based content recommendation**.  
+- **[Website](https://retrotv.efe-ozkan.online/)**  
+
+## 📡 Contact Me  
+
+📧 **efe.ozkan732@gmail.com**  
+🌐 **[Portfolio](https://efe-ozkan.com)**  
+👔 **[LinkedIn](https://www.linkedin.com/in/efe-özkan/)**  
+💻 **[GitHub](https://github.com/Veucci)**  
