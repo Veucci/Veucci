@@ -1,6 +1,6 @@
-# 🦆
+# 🦆 Hi, I'm **Efe**
 
-Hello, I'm **Efe**, an **AI-focused software developer** specializing in **machine learning, deep learning, and web development**. I work with **Python, PyTorch, and Docker** to build AI-driven applications. My expertise lies in **natural language processing (NLP), computer vision, and AI-powered mobile applications**.  
+An **AI-focused software developer** specializing in **machine learning, deep learning, and web development**. I work with **Python, PyTorch, and Docker** to build AI-driven applications. My expertise lies in **natural language processing (NLP), computer vision, and AI-powered mobile applications**.  
 
 ## 📌 Skills  
 
