@@ -3,6 +3,6 @@
 ## 📡 Contact Me  
 
 📧 **efe.ozkan@comcai.com**  
-🌐 **[Portfolio](https://efe-ozkan.com)**  
+🌐 **[Efe Özkan](https://efeozkan.com.tr)**  
 👔 **[LinkedIn](https://www.linkedin.com/in/efe-özkan/)**  
 💻 **[GitHub](https://github.com/Veucci)**  
