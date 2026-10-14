@@ -2,7 +2,6 @@
 
 <img src="assets/terminal.svg" alt="Terminal: whoami → Efe Özkan · AI & Software Developer @ Skala MRP · Istanbul" width="100%">
 
-
 <a href="https://efeozkan.com.tr"><img src="https://img.shields.io/badge/efeozkan.com.tr-0a0a0a?style=for-the-badge&logo=googlechrome&logoColor=60a5fa" alt="Website"></a>
 <a href="https://www.linkedin.com/in/efe-%C3%B6zkan/"><img src="https://img.shields.io/badge/LinkedIn-0a0a0a?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iIzYwYTVmYSIgZD0iTTIwLjQ0NyAyMC40NTJoLTMuNTU0di01LjU2OWMwLTEuMzI4LS4wMjctMy4wMzctMS44NTItMy4wMzctMS44NTMgMC0yLjEzNiAxLjQ0NS0yLjEzNiAyLjkzOXY1LjY2N0g5LjM1MVY5aDMuNDE0djEuNTYxaC4wNDZjLjQ3Ny0uOSAxLjYzNy0xLjg1IDMuMzctMS44NSAzLjYwMSAwIDQuMjY3IDIuMzcgNC4yNjcgNS40NTV2Ni4yODZ6TTUuMzM3IDcuNDMzYy0xLjE0NCAwLTIuMDYzLS45MjYtMi4wNjMtMi4wNjUgMC0xLjEzOC45Mi0yLjA2MyAyLjA2My0yLjA2MyAxLjE0IDAgMi4wNjQuOTI1IDIuMDY0IDIuMDYzIDAgMS4xMzktLjkyNSAyLjA2NS0yLjA2NCAyLjA2NXptMS43ODIgMTMuMDE5SDMuNTU1VjloMy41NjR2MTEuNDUyek0yMi4yMjUgMEgxLjc3MUMuNzkyIDAgMCAuNzc0IDAgMS43Mjl2MjAuNTQyQzAgMjMuMjI3Ljc5MiAyNCAxLjc3MSAyNGgyMC40NTFDMjMuMiAyNCAyNCAyMy4yMjcgMjQgMjIuMjcxVjEuNzI5QzI0IC43NzQgMjMuMiAwIDIyLjIyMiAwaC4wMDN6Ii8+PC9zdmc+" alt="LinkedIn"></a>
 <a href="https://huggingface.co/Veucci"><img src="https://img.shields.io/badge/Hugging%20Face-0a0a0a?style=for-the-badge&logo=huggingface&logoColor=60a5fa" alt="Hugging Face"></a>
@@ -24,7 +23,6 @@ Off the clock I write small, fast, self-hosted tools in **Rust** (my notes app i
 | :-- | :-- | :-- |
 | **2026 →** | AI & Software Developer · **Skala MRP** | MCP tool layer over the REST API, plus agents that turn natural language into business operations |
 | **2024 – 26** | Co-founder & Tech Lead · **Comcai** | AI call analytics at 10k+ calls/month, 99.5% uptime, 70% faster deploys |
-| **2025 – 26** | Principal Investigator · **TÜBİTAK 2209-B** | Deep-learning quality control for packaged food, published as a full paper |
 | **2025** | R&D Intern · **Aktif Bank** | RAG document search from 1.2 s to 0.4 s, KVKK-compliant masking APIs on Azure |
 
 ## ~/projects
@@ -99,18 +97,12 @@ Native Linux control center for Lenovo IdeaPads: 4-zone keyboard lighting, therm
 
 ## ~/papers
 
-<details>
-<summary><b>3 conference papers</b> on computer vision and carbon accounting</summary>
-<br>
-
 - **Deep Learning Based Defect Detection and Quality Assessment System for Packaged Food Packaging**<br>
   International Western Anatolia Scientific Research Congress, 2026 · [DOI](https://doi.org/10.30546/19023.978-9952-610-67-3.2026.100.1127.)
 - **Design and Implementation of a Web-Based Corporate Carbon Management System**<br>
   6th International Thales Congress, 2026 · [DOI](https://doi.org/10.30546/19023.978-9952-8545-6-5.2025.09.)
 - **AI-Supported Mathematical Modeling and Machine Learning Based Carbon Footprint Calculation System**<br>
   6th International Thales Congress, 2026 · [DOI](https://doi.org/10.30546/19023.978-9952-8545-6-5.2025.09.)
-
-</details>
 
 ## ~/activity
 
