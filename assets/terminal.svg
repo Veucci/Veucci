@@ -1,0 +1,74 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="300" viewBox="0 0 880 300" role="img" aria-label="Terminal: whoami — Efe Özkan, AI &amp; Software Developer at Skala MRP, Istanbul">
+  <style>
+    text { font: 15px ui-monospace, SFMono-Regular, "SF Mono", Menlo, Consolas, "Liberation Mono", "DejaVu Sans Mono", monospace; fill: #b4bac9; white-space: pre; }
+    .title { font-size: 13px; fill: #6b7280; }
+    .p { fill: #60a5fa; font-weight: 700; }
+    .c { fill: #f0f2f7; }
+    .w { fill: #f0f2f7; font-weight: 700; }
+    .a { fill: #60a5fa; }
+    .m { fill: #4b5563; }
+    .d { fill: #60a5fa; font-weight: 700; }
+    .l { opacity: 0; animation: show .01s forwards; }
+    .cur { fill: #60a5fa; }
+    .blink { animation: blink 1s step-end infinite; }
+    @keyframes show { to { opacity: 1; } }
+    @keyframes hide { to { opacity: 0; } }
+    @keyframes blink { 50% { opacity: 0; } }
+    @keyframes t1 { to { transform: translateX(54px); } }
+    @keyframes t2 { to { transform: translateX(117px); } }
+    @keyframes t3 { to { transform: translateX(162px); } }
+    @media (prefers-reduced-motion: reduce) {
+      .l { opacity: 1; animation: none; }
+      .t { display: none; }
+      .blink { animation: none; }
+    }
+  </style>
+  <defs>
+    <clipPath id="card"><rect width="880" height="300" rx="12"/></clipPath>
+  </defs>
+  <g clip-path="url(#card)">
+    <rect width="880" height="300" fill="#0a0a0a"/>
+    <rect width="880" height="40" fill="#111111"/>
+    <rect y="40" width="880" height="1" fill="#1f1f1f"/>
+  </g>
+  <rect x=".5" y=".5" width="879" height="299" rx="12" fill="none" stroke="#262626"/>
+  <circle cx="24" cy="20" r="6" fill="#ff5f57"/>
+  <circle cx="44" cy="20" r="6" fill="#febc2e"/>
+  <circle cx="64" cy="20" r="6" fill="#28c840"/>
+  <text x="440" y="25" text-anchor="middle" class="title">efe@istanbul: ~</text>
+
+  <g class="l" style="animation-delay:.3s">
+    <text x="28" y="84" class="p">❯</text>
+    <text x="48" y="84" class="c" textLength="54" lengthAdjust="spacingAndGlyphs">whoami</text>
+    <g class="t" style="animation:t1 .36s steps(6) .6s forwards">
+      <rect x="48" y="68" width="70" height="22" fill="#0a0a0a"/>
+      <rect class="cur" x="48" y="70" width="9" height="18" style="animation:hide .01s 1.3s forwards"/>
+    </g>
+  </g>
+  <text x="48" y="110" class="l" style="animation-delay:1.3s"><tspan class="w">Efe Özkan</tspan><tspan class="m"> · </tspan>AI &amp; Software Developer <tspan class="a">@ Skala MRP</tspan><tspan class="m"> · </tspan>Istanbul</text>
+
+  <g class="l" style="animation-delay:1.7s">
+    <text x="28" y="146" class="p">❯</text>
+    <text x="48" y="146" class="c" textLength="117" lengthAdjust="spacingAndGlyphs">cat focus.txt</text>
+    <g class="t" style="animation:t2 .78s steps(13) 2s forwards">
+      <rect x="48" y="130" width="133" height="22" fill="#0a0a0a"/>
+      <rect class="cur" x="48" y="132" width="9" height="18" style="animation:hide .01s 3.1s forwards"/>
+    </g>
+  </g>
+  <text x="48" y="172" class="l" style="animation-delay:3.1s">LLMs in production<tspan class="m"> · </tspan>RAG pipelines<tspan class="m"> · </tspan>AI agents<tspan class="m"> · </tspan>MCP tool layers</text>
+
+  <g class="l" style="animation-delay:3.5s">
+    <text x="28" y="208" class="p">❯</text>
+    <text x="48" y="208" class="c" textLength="162" lengthAdjust="spacingAndGlyphs">ls ~/side-projects</text>
+    <g class="t" style="animation:t3 1.08s steps(18) 3.8s forwards">
+      <rect x="48" y="192" width="178" height="22" fill="#0a0a0a"/>
+      <rect class="cur" x="48" y="194" width="9" height="18" style="animation:hide .01s 5.2s forwards"/>
+    </g>
+  </g>
+  <text x="48" y="234" class="l" style="animation-delay:5.2s"><tspan class="d">RustKeep/</tspan>  <tspan class="d">lyrics-to-genre/</tspan>  <tspan class="d">pi-prompt-translate/</tspan>  <tspan class="d">lenovo-ideapad-manager-linux/</tspan></text>
+
+  <g class="l" style="animation-delay:5.6s">
+    <text x="28" y="270" class="p">❯</text>
+    <rect class="cur blink" x="48" y="256" width="9" height="18"/>
+  </g>
+</svg>
